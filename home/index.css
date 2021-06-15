@@ -1,0 +1,9 @@
+.background-image {
+  background-image: url(/Images/movie-popcorn.jpg);
+}
+h1 {
+  align-items: center;
+}
+#card-image-movie {
+  text-align: center;
+}
