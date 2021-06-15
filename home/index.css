@@ -4,9 +4,11 @@ h1 {
 #card-image-movie {
   text-align: center;
 }
+#picture-thumbnail {
+  width: 200px;
+  height: 121px;
+}
 .img-fluid {
   max-width: 100%;
   height: auto;
-  width: 200px;
-  height: 121px;
 }
